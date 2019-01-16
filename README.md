@@ -5,8 +5,9 @@ jQuery Slideshow Exercise
 
 [DEMO](https://jedchang.github.io/JQ-Slideshow/)
 
-01-淡入、淡出效果
 
-02-滑動效果
+
+> 01. 淡入、淡出效果
+> 02. 滑動效果
 
 ![image](https://github.com/jedchang/JQ-Slideshow/blob/master/preview.jpg)
