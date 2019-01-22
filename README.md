@@ -1,7 +1,7 @@
 # JQ-Slideshow-exercise
 ![image](https://img.shields.io/badge/jQuery-exercise-brightgreen.svg)
 
-jQuery Slideshow Exercise
+使用 each()、setInterval()、clearInterval()、on() 多事件綁定等
 
 [DEMO](https://jedchang.github.io/JQ-Slideshow/)
 
