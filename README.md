@@ -6,10 +6,6 @@
 - **`clearInterval()`** - 用來停止計時器
 - **`on()`** - 多事件綁定等
 
-[DEMO](https://jedchang.github.io/JQ-Slideshow/)
-
-
-
 > 01. 淡入、淡出效果
 > 02. 滑動效果
 
