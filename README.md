@@ -1,6 +1,7 @@
 # JQ-Slideshow-exercise
 
-![image](https://img.shields.io/badge/jQuery-exercise-brightgreen.svg)
+![image](https://img.shields.io/badge/jQuery-exercise-0769AD.svg) ![image](https://img.shields.io/badge/SCSS-exercise-CD6799.svg)
+
 ![image](https://github.com/jedchang/JQ-Slideshow/blob/master/preview.jpg)
 
 ### 定義資料
